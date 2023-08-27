@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T13:31:46.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" version="21.6.8" etag="fd6caozmeABRXV4rA4cH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-27T02:29:48.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="LSLrPx8ZArQGuo-ObCQE" version="21.6.9" type="github">
   <diagram name="第 1 页" id="eDCJZaQWCffTqdLqGjXX">
-    <mxGraphModel>
+    <mxGraphModel dx="685" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9qcYf5eSPnqjAVueQy90-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-1" target="9qcYf5eSPnqjAVueQy90-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-19" value="EOA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qcYf5eSPnqjAVueQy90-5">
+          <mxGeometry x="0.0172" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-1" target="9qcYf5eSPnqjAVueQy90-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-25" value="EOA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qcYf5eSPnqjAVueQy90-6">
+          <mxGeometry x="0.4178" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-1" target="9qcYf5eSPnqjAVueQy90-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-20" value="ECA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qcYf5eSPnqjAVueQy90-7">
+          <mxGeometry x="0.0907" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-1" value="钱包分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-2" target="9qcYf5eSPnqjAVueQy90-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-2" target="9qcYf5eSPnqjAVueQy90-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-2" target="9qcYf5eSPnqjAVueQy90-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-2" value="HD钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-3" target="9qcYf5eSPnqjAVueQy90-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-3" target="9qcYf5eSPnqjAVueQy90-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-3" target="9qcYf5eSPnqjAVueQy90-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-3" value="MPC钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-4" target="9qcYf5eSPnqjAVueQy90-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qcYf5eSPnqjAVueQy90-4" target="9qcYf5eSPnqjAVueQy90-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-4" value="AA钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-8" value="1. 根据seed phrase生成公私钥&lt;br&gt;2. 公私钥可恢复&lt;br&gt;3. 密码与公私钥无关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-9" value="可以和当前的所有应用介入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-10" value="根据签名实现方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-15" value="将生成的私钥分成多个碎片, 在使用的时候通过一个计算网络合成(阈值)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="305" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-17" value="链下计算需要算力, 以及生成私钥的过程一般是在服务提供方的服务器中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="390" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-21" value="多签钱包指的是功能上的多签: 需要多个人签名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="620" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9qcYf5eSPnqjAVueQy90-22" value="本质上是一个合约账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="510" width="250" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
